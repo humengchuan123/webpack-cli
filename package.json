@@ -1,0 +1,19 @@
+{
+  "name": "hashtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.2.0"
+  },
+  "dependencies": {
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.12"
+  }
+}
